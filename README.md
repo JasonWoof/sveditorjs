@@ -1,7 +1,6 @@
-
 ## sveditorjs v2
 
-sveditorjs can be embed into any svelte or sveltekit project,the editor is wraped around editorjs ,for block editing that outputs clean json document.json can be consumed by any app.
+sveditorjs can be embed into any svelte or sveltekit project. It is a wrapper around editor.js for block editing that outputs clean json document.json that can be consumed by any app.
 
 on version we added support for sveltekit
 and added a utility helper 
